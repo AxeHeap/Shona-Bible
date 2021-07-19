@@ -1,0 +1,82 @@
+\b	Tsamba yechipiri yaPetro
+\c	1
+\s	Kwaziso
+\p
+\v	1	SimoniPetro, muranda nemuapositori waJesu Kristu, kune avo vakawana rutendo rwunokosha rwakafanana nerwedu mukururama kwaMwari wedu neMuponesi wedu Jesu Kristu:
+\v	2	Nyashanerugare ngazviwanzwe kwamuri paruzivo rwaMwari nerwaJesu Ishe wedu.
+\p
+\v	3	Sesimbarake reuMwari rakatipa zvinhu zvose zveupenyu nekunamata Mwari kubudikidza neruzivo rwaiye wakatidana kubudikidza nekubwinya uye kunaka;
+\v	4	akatipanazvo zvivimbiso zvikurusa uye zvinokosha; kuti naizvozvi muve vagovani vechizvarirwo cheuMwari, mapukunyuka kuora kuri panyika kubudikidza nekuchiva.
+\s	Shingairai pauKristu
+\p
+\v	5	Zvinonekuda kweizviwo maita kushingaira kose, wedzerai parutendo rwenyu kunaka, nepakunaka ruzivo,
+\v	6	neparuzivokuzvidzora, nepakuzvidzora moyo murefu, nepamoyo murefu kunamata Mwari,
+\v	7	nepakunamataMwari rudo rwehama, neparudo rwehama, rudo.
+\v	8	Nokutikana zvinhu izvi zviri mamuri, uye zvichiwanda, hazvi kuiti i vasingashandi kana vanoshaiwa zvibereko pakuziva Ishe wedu Jesu Kristu.
+\v	9	Nokutiasina zvinhu izvi, ibofu, anoonera pedo, wakanganwa kunatswa kwezvivi zvake zvekare.
+\v	10	Naizvozvo, hama, shingairai zvikuru kusimbisa kudanwa nekusanangurwa kwenyu; nokuti kana muchiita zvinhu izvi hamungatongogumburwi narinhi.
+\v	11	Nokuti saizvozvo muchawedzerwa zvakanyanya kupinda muushe husingaperi hwaIshe wedu neMuponesi Jesu Kristu.
+\s	Uchapupu hwaPetro pamusoro pevaporofita
+\p
+\v	12	Naizvozvo handingashaiwi hanya nekukuyeudzirai zvinhu izvi nguva dzose, kunyange muchiziva, uye makasimbiswa pachokwadi chiripo.
+\v	13	Uye ndinoona zvakanaka  kuti kana ndichingori mutabhenakeri ino chete ndikumutsei nechiyeuchidzo;
+\v	14	ndichiziva kuti kunokurumidza kubviswa kwetabhenakeri yangu, Ishe wedu Jesu Kristu sezvaakandiratidzawo.
+\v	15	Asi neni ndichashingaira kuti nguva dzose shure kwekuenda kwangu muve nechiyeuchidzo chezvinhu izvi.
+\p
+\v	16	Nokuti hatina kutevera ngano dzakarukwa nenjere patakakuzivisai simba nekuuya kwaIshe wedu Jesu Kristu, asi taiva tiri vakazvionera kubwinya kwake.
+\v	17	Nokuti wakagamuchira kubva kuna Mwari Baba rukudzo nekubwinya, inzwi rakadai parakasvika kwaari pakubwinya kukuru-kuru  richiti: Uyu Mwanakomana wangu mudikanwa, wandinofara maari ini;
+\v	18	uye inzwi iri isu takarinzwa richibva kudenga pataiva naye mugomo dzvene.
+\v	19	Uye tine shoko rakasimba kwazvo rechiporofita, ramunoita zvakanaka muchirichenjerera sekumwenje unovhenekera panzvimbo ine rima, kusvika utonga huchitsvuka, nenyamasase ichibudira mumoyo yenyu;
+\v	20	muchiziva izvi pakutanga, kuti hakuna chiporofita cherugwaro chinobva mududziro yemwene wacho.
+\v	21	Nokuti hakuna kumbouyiswa chiporofita nechido chemunhu, asi vanhu vatsvene vaMwari vakataura vachisundwa neMweya Mutsvene.
+\c	2
+\s	Vadzidzisi venhema
+\p
+\v	1	Asikwaiva nevaporofita venhemawo pakati pevanhu, sezvakuchavapowo vadzidzisi venhema pakati penyu, vachapinza pachivande kutsauka kunoparadza, vachiramba kunyange Ishe wakavatenga, vachizviuisira kuparara kunokurumidza.
+\v	2	Zvinozhinji vachatevera kuparadzwa kwavo; nekuda kwavo nzira yechokwadi ichanyombwa.
+\v	3	Uyepakuchiva namashoko akaumbwa vachawana mubairo nemwi; kutongwa kwavo kwakare hakunonoki, nekuparadzwa kwavo hakutsumwairi.
+\p
+\v	4	Nokutikana Mwari asina kurega vatumwa vakatadza, asi waka vakandira mugehena achi vakumikidza kumaketani erima kuti vachengeterwe mutongo;
+\v	5	uyehaana kurega nyika yekare, asi wakachengetedza Nowa muparidzi wekururama nevamwe vanomwe, paakauisa mafashame panyika yevasingadi Mwari;
+\v	6	nekuroromesamaguta eSodhoma neGomora, akaatongera kuparadzwa, akaaita chive chiratidzo kune vachazogara vasingadi Mwari;
+\v	7	akanunurawoRoti wakarurama, wakazvidya moyo pakuzvibata mukunyangadza kwevakaipa;
+\v	8	(nokutiuyo wakarurama, agere pakati pavo, pakuona nekunzwa, wakarwadzisa kwazvo mweya weupenyu  wake wakarurama zuva rimwe nerimwe nemabasa asina murairo).
+\v	9	Isheanoziva kununura vanonamata Mwari kubva pamiedzo, nekuchengeta vasakarurama kusvika pazuva rekutongwa vachirangwa;
+\v	10	asi zvikuru ivo vanofamba nemutoo wenyama paruchiva rwetsvina, nekuzvidza utongi. Vasina hanya, vane nharo, vasingatyi kutuka vanokudzwa;
+\v	11	izvo vatumwa, vanopfuura pakugona nesimba, havauyisi pavari mutongo wekunyomba pamberi paIshe.
+\p
+\v	12	Asi ava,  vakaita semhuka pachisikirwo dzisina fungwa dzakaberekerwa kubatwa nekuparadzwa, vanotuka zvavasingazivi, vachaparadzwa pakuora kwavo,
+\v	13	vachagamuchira mubairo wekusarurama, vanoti mafaro kuita umbozha masikati, ivo makwapa nechinyadzo, vanofara mukunyengera kwavo kana vari pamabiko nemwi,
+\v	14	vane meso azere neupombwe, nevasingaregi chivi, vanonyengera mweya yeupenyu isina simba, vane moyo wakarovedzwa kuchiva; vana vechakatukwa;
+\v	15	vasiya nzira yakarurama vakatsauka, vatevera nzira yaBharami waBhosori, wakada mubairo wekusarurama,
+\v	16	asi wakava nekutsiurwa kwekudarika kwake; mbongoro chimumumu ichitaura muinzwi remunhu, chikadzivisa upengo hwemuporofita.
+\v	17	Iva zvitubu zvisina mvura, makore anosundwa nedutu remhepo; ivo vakachengeterwa mhute yerima kusvika kusingaperi.
+\v	18	Nokuti vachitaura zvekuzvikudza kusina maturo, vanokwezva neruchiva rwenyama neunzenza avo vakapukunyuka zvirokwazvo kune vanofamba mukutsauka;
+\v	19	vachivavimbisa rusununguko, ivo pachavo vari varanda vekuora; nokuti uyo umwe waakundwa naye, ndiyewo waanoitwa muranda kwaari.
+\v	20	Nokuti kana vapukunyuka patsvina yenyika kubudikidz a neruzivo rwaIshe neMuponesi Jesu Kristu, vanopfekanidzwazve mazviri vachikundwa, zvinhu zvekuguma zvigova kwavari zvakaipa kupfuura zvekutanga.
+\v	21	Nokuti zvaiva nani kwavari kuti  dai vaiva vasina kuziva nzira yekururama, pakuti vaziva vadzoke kubva pamurairo mutsvene wakakumikidzwa kwavari.
+\v	22	Asi zvakaitika kwavari zvedimikira rechokwadi  zvinoti: Imbwa yakadzokera kumarutsi ayo pachayo; nehadzi yenguruve yaiva yashamba kukuvumburuka mumatope.
+\c	3
+\s	Kudzoka kwaKristu
+\p
+\v	1	Ikozvinoiyi, vadikanwi, itsamba yechipiri yandinokunyorerai; panaidzodzi  mbiri ndinomutsa murangariro wenyu wakachena nechiyeuchidzo,
+\v	2	kuti murangarire mashoko akambotaurwa nevaporofita vatsvene, nemurairo wedu, tiri vaapasitori vaIshe neMuponesi;
+\v	3	muchizivaichi pakutanga, kuti kuchauya pakuguma kwemazuva vanongoseka, vachifamba maererano neruchiva rwavo pachavo,
+\v	4	uyevachiti: Chiripi chivimbiso chekuuya kwake? Nokuti kubva zvarara madzibaba zvinhu zvose zvakaramba zvakadaro kubva pakutanga kwekusikwa.
+\v	5	Nokutivanokanganwa ichi maune, kuti matenga aivapo kubva kare, nenyika, iripo kubva mumvura, uye kubudikidza nemvura, neshoko raMwari;
+\v	6	nazvonyika yaivapo nguva iyo yakafukidzwa nemvura yakaparadzwa.
+\v	7	Asimatenga nenyika zviripo ikozvino zvakachengetwa neirori shoko, zvakachengeterwa moto pazuva rekutongwa nerekuparadzwa kwevanhu vasingadi Mwari.
+\p
+\v	8	Asichinhu chimwe ichi ngachirege kusazikanwa nemwi, vadikanwi, kuti zuva rimwe kuna Ishe  rakaita samakore ane churu, nemakore ane churu sezuva rimwe.
+\v	9	Ishehaanonoki maererano nechivimbiso, sevamwe vanoti kunonoka; asi ane moyo murefu kwatiri, asingadi kuti ani nani aparare, asi kuti vose vasvike pakutendeuka.
+\p
+\v	10	Asi zuva raIshe richasvika sembavha usiku, naro matenga achapfuura nekutinhira kukuru, nezvekutanga zvichanyunguduswa nekupisa kukuru, nenyika nemabasa ari mairi achapiswa.
+\v	11	Sezvo zvinhu izvi zvose zvichaparadzwa, imwi munofanira kuva vakadini pamafambiro matsvene nekunamata Mwari,
+\v	12	makatarisira nekumhanyira kusvika kwezuva raMwari; naro matenga achipiswa achaparadzwa, nezvekutanga zvinyunguduke nekupisa kukuru.
+\v	13	Asi sechivimbiso chake tinotarisira matenga matsva nenyika itsva, mazviri munogara kururama.
+\p
+\v	14	Naizvozvo vadikanwi, zvamunotarisira zvinhu izvi, shingairai kuti muwanikwe naye murugare, musina gwapa uye musingashoreki.
+\v	15	Zvino muti moyo murefu waIshe wedu ruponeso, hama yedu inodikanwa Pauro sezvaakakunyoreraiwo zvichienderana nenjere dzakapiwa kwaari;
+\v	16	semutsamba  dzake dzosewo, achitaura madziri maererano nezvinhu izvi; madziri mune zvimwe zvikukutu kunzwisisika, izvo avo vasina kudzidza nevasina kusimba vanozviminamisa, semamwewo magwaro, kusvika pakuparadzwa kwavo pachavo.
+\v	17	Naizvozvo imwi, vadikanwi, zvamagara muchiziva, chenjerai kuti murege kutsauswa pamwe nekunyengera kwevasina murairo, muwe pakusimba kwenyu.
+\v	18	Asi kurai munyasha neparuzivo rwaIshe wedu neMuponesi Jesu Kristu. Rukudzo  ngaruende kwaari ikozvinowo uye kusvika zuva rekusingaperi. Ameni.
