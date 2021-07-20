@@ -1076,7 +1076,7 @@
 \v	21	Israeri ndokufamba, ndokudzika tende rake mberi kweshongwe yeEdheri.
 \v	22	Zvino zvakaitika Israeri achigara munyika iyo, kuti Rubheni wakaenda ndokunorara naBhiriha murongo wababa vake, Israeri ndoku zvinzwa.
 \s	Vanakomana vaJakove
-\p Zvino vanakomana vaJakove vaiva gumi nevaviri;
+\p	Zvino vanakomana vaJakove vaiva gumi nevaviri;
 \v	23	vanakomana vaRea: Rubheni, dangwe raJakove, naSimioni, naRevhi, naJudha, naIsasikari, naZebhuruni;
 \v	24	vanakomana vaRakeri: Josefa naBhenjamini;
 \v	25	uye vanakomana vaBhiriha murandakadzi waRakeri: Dhani naNafutari;
