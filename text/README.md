@@ -22,8 +22,9 @@ The text within each file is presented as tab-separated values.
 | ```\b``` | Book of the bible in Shona. |
 | ```\c``` | Chapter number of the book. |
 | ```\s``` | Sub-title within a chapter. |
-| ```\p``` | Start of a new paragraph. |
+| ```\p``` | Start of a new paragraph. (Conditional) -> After this it may has text, i.e. ```\p  Zvino ini ndaiva ndiri mudiri wamambo.``` This denotes that it's a paragraph with more text on a new line. |
 | ```\v``` | The verse, and the verse number is the digit immediately after it. |
+| ```:``` | Start of quote or speech, denote with quotation marks. |
 
 
 <br/>
