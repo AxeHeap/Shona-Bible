@@ -12,6 +12,7 @@ A collection of the Shona bible and associated libraries to access the bible in 
 <br/>
 
 ## Licence
+```
 MIT License
 
 Copyright (c) 2021 BitPirates
@@ -33,3 +34,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
