@@ -45,7 +45,7 @@
 \s	Zvirevo zvaSoromoni
 \p
 \v	1	ZvirevozvaSoromoni.
-\p Mwanakomana wakachenjera anofadza baba; asi mwanakomana benzi marwadzo kuna mai vake.
+\p	Mwanakomana wakachenjera anofadza baba; asi mwanakomana benzi marwadzo kuna mai vake.
 \p
 \v	2	Fumazhinji yezvakaipa haibatsiri; asi kururama kunonunura parufu.
 \p

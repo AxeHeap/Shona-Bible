@@ -793,8 +793,7 @@
 \c	3
 \s	Jehovha anozviratidza kuna Samueri
 \p
-\v	1	Zvinomukomana Samueri waishumira Jehovha pamberi paEri.
-\p Uye shoko raJehovha raikosha pamazuva iwawo; kwaiva kusina chiratidzo chaibuda pachena.
+\v	1	Zvinomukomana Samueri waishumira Jehovha pamberi paEri. Uye shoko raJehovha raikosha pamazuva iwawo; kwaiva kusina chiratidzo chaibuda pachena.
 \p
 \v	2	Zvinozvakaitika panguva iyo Eri paaiva arara panzvimbo yake, uye meso ake otanga kuonera madzedzerere, asingagoni kuona,
 \v	3	uyemwenje waMwari usati wadzimwa, naSamueri waiva arere patembere yaJehovha, paiva neareka yaMwari;
